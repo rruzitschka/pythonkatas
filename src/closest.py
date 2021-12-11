@@ -1,5 +1,6 @@
 
-#Part 2
+#Part 2 of closest to zero kata : https://www.sammancoaching.org/kata_descriptions/closest_to_zero.html
+# I tried to work in real TDD mode: creat test -fail -refactor until pass
 
 #Given a list of strings, find the one closest to “zero”.
 # A word is close to “zero” if it contains the same letters.
